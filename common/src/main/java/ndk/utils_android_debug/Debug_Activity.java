@@ -7,7 +7,7 @@ import android.widget.Button;
 
 import tech.linjiang.pandora.Pandora;
 
-public class Activity_Debug extends AppCompatActivity {
+public class Debug_Activity extends AppCompatActivity {
 
     Button button_pandora;
 
