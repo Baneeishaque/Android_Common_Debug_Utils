@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">common</string>
     <string name="pandora">Pandora</string>
     <string name="debugging_tools">Debugging Tools</string>
 </resources>
