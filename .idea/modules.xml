@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Android_Common_Debug_Utils.iml" filepath="$PROJECT_DIR$/.idea/Android_Common_Debug_Utils.iml" group="Android_Common_Debug_Utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Android_Common_Debug_Utils-common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Android_Common_Debug_Utils-common.iml" group="Android_Common_Debug_Utils/common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Studio-Android_Common_Debug_Utils.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Studio-Android_Common_Debug_Utils.iml" group="Android_Common_Debug_Utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Resources/Resources.iml" filepath="$PROJECT_DIR$/.idea/modules/Resources/Resources.iml" group="Android_Common_Debug_Utils/Resources" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Resources/common/Resources-common.iml" filepath="$PROJECT_DIR$/.idea/modules/Resources/common/Resources-common.iml" group="Android_Common_Debug_Utils/Resources/common" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/common.iml" group="Android_Common_Debug_Utils/common" />
     </modules>
   </component>
