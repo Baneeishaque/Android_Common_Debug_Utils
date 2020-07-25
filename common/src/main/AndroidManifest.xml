@@ -1,10 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ndk.utils_android_debug">
-
-    <application>
-        <activity
-            android:name=".Debug_Activity"
-            android:label="@string/debugging_tools" />
-    </application>
-
-</manifest>
+<manifest package="ndk.utils_android_debug" />
