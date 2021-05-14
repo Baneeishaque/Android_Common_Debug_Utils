@@ -22,6 +22,12 @@ steps:
       restoreKeys: gradle
       path: $(GRADLE_USER_HOME)
     displayName: Gradle Build Cache
+    
+  - task: JavaToolInstaller@0
+  inputs:
+    versionSpec: '11'
+    jdkArchitectureOption: 'x64'
+    jdkSourceOption: 'PreInstalled'
 
   - task: Gradle@2
     displayName: 'Gradle build : Android Library'
