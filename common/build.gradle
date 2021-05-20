@@ -78,7 +78,7 @@ dependencies {
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.appcompat:appcompat:1.3.0'
     implementation 'com.github.whataa:pandora:2.1.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
 
